@@ -33,7 +33,7 @@ Here are some screenshots of the website:
 ![Contact Section](Web%20Dev/assets/images/screenshot-contact.png) <!-- Contact section screenshot -->
 
 ## Live Demo
-Check out the live demo of the portfolio: [Live Demo](https://your-username.github.io/portfolio-2025)
+Check out the live demo of the portfolio: [Live Demo](https://MeerabAfzal.github.io/portfolio-2025)
 
 ## Technologies Used
 - **HTML5:** For structuring the website.
