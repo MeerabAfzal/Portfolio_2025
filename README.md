@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-![Portfolio Screenshot](assets/images/screenshot.png) <!-- Add a screenshot here -->
+![Portfolio Screenshot](Web%20Dev/assets/images/screenshot.png) <!-- Add a screenshot here -->
 
 ## Project Description
 This is a responsive personal portfolio website built using **HTML**, **CSS**, and **Bootstrap 5**. It showcases my skills, education, projects, and contact information. The website is designed with a modern and clean layout, ensuring a great user experience on both desktop and mobile devices.
@@ -18,19 +18,19 @@ This is a responsive personal portfolio website built using **HTML**, **CSS**, a
 Here are some screenshots of the website:
 
 ### Home Section
-![Home Section](assets/images/screenshot-home.png) <!-- Add a screenshot of the home section -->
+![Home Section](Web%20Dev/assets/images/screenshot-home.png) <!-- Home section screenshot -->
 
 ### Skills Section
-![Skills Section](assets/images/screenshot-skills.png) <!-- Add a screenshot of the skills section -->
+![Skills Section](Web%20Dev/assets/images/screenshot-skills.png) <!-- Skills section screenshot -->
 
 ### Projects Section
-![Projects Section](assets/images/screenshot-projects.png) <!-- Add a screenshot of the projects section -->
+![Projects Section](Web%20Dev/assets/images/screenshot-projects.png) <!-- Projects section screenshot -->
 
 ### Education Section
-![Education Section](assets/images/screenshot-education.png) <!-- Add a screenshot of the education section -->
+![Education Section](Web%20Dev/assets/images/screenshot-education.png) <!-- Education section screenshot -->
 
 ### Contact Section
-![Contact Section](Web Dev/assets/images/screenshot-contact.png) <!-- Add a screenshot of the contact section -->
+![Contact Section](Web%20Dev/assets/images/screenshot-contact.png) <!-- Contact section screenshot -->
 
 ## Live Demo
 Check out the live demo of the portfolio: [Live Demo](https://your-username.github.io/portfolio-2025)
