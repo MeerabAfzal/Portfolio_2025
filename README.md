@@ -30,7 +30,7 @@ Here are some screenshots of the website:
 ![Education Section](assets/images/screenshot-education.png) <!-- Add a screenshot of the education section -->
 
 ### Contact Section
-![Contact Section](assets/images/screenshot-contact.png) <!-- Add a screenshot of the contact section -->
+![Contact Section](Web Dev/assets/images/screenshot-contact.png) <!-- Add a screenshot of the contact section -->
 
 ## Live Demo
 Check out the live demo of the portfolio: [Live Demo](https://your-username.github.io/portfolio-2025)
